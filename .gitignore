@@ -1,0 +1,19 @@
+/*
+
+# Dirs
+!/src
+!/static
+
+# Files
+!/.eslintignore
+!/.eslintrc.cjs
+!/.gitignore
+!/.npmrc
+!/.prettierignore
+!/.prettierrc
+!/package.json
+!/README.md
+!/svelte.config.js
+!/tsconfig.json
+!/vite.config.ts
+!/yarn.lock
